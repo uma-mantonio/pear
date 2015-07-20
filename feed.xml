@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://uma-mantonio.github.com/pear</id>
+    <updated>2015-07-20T15:24:30+02:00</updated>
+    <title>uma-mantonio's PEAR Channel Server Latest Releases</title>
+    <link href="http://uma-mantonio.github.com/pear/feed.xml" rel="self" />
+    <author>
+        <name>http://uma-mantonio.github.com/pear</name>
+    </author>
+
+
+</feed>
